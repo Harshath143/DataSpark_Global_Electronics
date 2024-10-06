@@ -20,10 +20,10 @@ This repository contains a comprehensive data analysis and strategic recommendat
 
 ## Contents
 - `Data_Spark.ipynb`: Jupyter Notebook containing the data cleaning, preprocessing, and analysis steps.
-- `Report.pdf`: Comprehensive data analysis and strategic recommendations report.
+- `Data_spark.docx`: Comprehensive data analysis and strategic recommendations report.
 - `Datasets/`: Folder containing the raw and cleaned datasets used in the analysis.
-- `Visualizations/`: Folder containing visualizations and dashboards created during the analysis.
-- `SQL_Queries.sql`: File containing SQL queries used in the analysis.
+- `Visualizations/Data_spark.pbix`: Folder containing visualizations and dashboards created during the analysis.
+- `Data_spark_Sql_Query.docx`: File containing SQL queries used in the analysis.
 - `README.md`: Detailed project overview and instructions.
 
 ## Instructions
@@ -33,6 +33,8 @@ Ensure you have the following software installed:
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries: pandas, numpy, matplotlib, seaborn
+Environment:
+- Vs Code
 
 ### Cloning the Repository
 To get a local copy up and running, follow these simple steps:
