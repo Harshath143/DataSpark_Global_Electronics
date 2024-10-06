@@ -31,10 +31,8 @@ This repository contains a comprehensive data analysis and strategic recommendat
 ### Prerequisites
 Ensure you have the following software installed:
 - Python 3.x
-- Jupyter Notebook
+- Jupyter Notebook / VS code
 - Required Python libraries: pandas, numpy, matplotlib, seaborn
-Environment:
-- Vs Code
 
 ### Cloning the Repository
 To get a local copy up and running, follow these simple steps:
